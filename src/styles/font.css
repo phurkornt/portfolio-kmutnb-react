@@ -1,0 +1,42 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Mohave', sans-serif;
+    line-height: 2;
+}
+.text-font-headless{
+    color: #4AB19A;
+    font-family: 'Great Vibes', cursive;
+    font-size: 5rem;
+    font-weight: 900;
+}
+p{
+    font-family: 'Mohave', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.text-font{
+    color: #4AB19A;
+    font-family: 'Mohave', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+.text-font-d{
+    color: #000000;
+    font-family: 'Mohave', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+.text-font-head{
+    color: #4AB19A;
+    font-family: 'Mohave', sans-serif;
+    font-size: 3rem;
+    font-weight: 600;
+}
+.header-font{
+    margin-top: 2rem;
+    font-family: 'Great Vibes', cursive;
+    font-size:3rem;
+    color: #4AB19A;
+}
