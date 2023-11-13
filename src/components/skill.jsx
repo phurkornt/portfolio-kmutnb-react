@@ -7,10 +7,10 @@ export default function Skill(){
     }
     return(
         <div id='skill' className='al' style={bg} >
-            <div className="container text-center">
-                <p className="text-font-head">My Skill</p>
+            <div className="container ">
+                <p className="text-font-head text-dark">My Skill</p>
 
-                <div className="row">
+                <div className="row text-center">
                     <div className='col-12'>
                         <div class="card p-5" style={{}}>
                             <div class="card-body text-center">

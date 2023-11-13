@@ -3,7 +3,6 @@ import React from 'react'
 import education_1 from '../img/education_1.jpg'
 import education_2 from '../img/education_2.jpg'
 
-
 export default function About() {
     const bg = {
         backgroundColor: "#F5F5F7",
@@ -17,6 +16,7 @@ export default function About() {
         width: "35rem",
         height:"30rem"
     }
+
     return (
 
         <div id='about' className='' style={bg}>
@@ -49,7 +49,6 @@ export default function About() {
                         </div>
                     </div>
                     <div className='col-1'></div>
-
                 </div>
 
 

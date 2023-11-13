@@ -23,17 +23,17 @@ export default function Header() {
                                 </a>
                             </li>
                             <li>
-                                <a href="#" class="nav-link text-white">
+                                <a href="#skill" class="nav-link text-white">
                                     Skill
                                 </a>
                             </li>
                             <li>
-                                <a href="#" class="nav-link text-white">
+                                <a href="#exp" class="nav-link text-white">
                                     Experience
                                 </a>
                             </li>
                             <li>
-                                <a href="#" class="nav-link text-white">
+                                <a href="#contact" class="nav-link text-white">
                                     Contact
                                 </a>
                             </li>
